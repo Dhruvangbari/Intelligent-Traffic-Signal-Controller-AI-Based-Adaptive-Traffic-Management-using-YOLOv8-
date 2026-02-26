@@ -61,6 +61,7 @@ Intelligent_Traffic_Signal_Controller/
 
 The YOLOv8 model will automatically download on first execution.
 
+
 ---
 
 ## 📊 How It Works
